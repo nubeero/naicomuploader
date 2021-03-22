@@ -1,0 +1,308 @@
+{
+  "sid": "922836c8-86f5-4831-9f48-7097ac97982d",
+  "token": "GMH8CyNX0kjINiiS9YYxSJ9IcJesl5gt",
+  "type": "LIFE",
+  "DataGroup": [
+    {
+      "GroupName": "Basic Info",
+      "GroupCount": "0",
+      "GroupTag": "0",
+      "AttArray": [
+        {
+          "Name": "TypeID",
+          "Value": "Savings"
+        },
+        {
+          "Name": "CoverageStartDate",
+          "Value": "02/23/2018 00:00:00"
+        },
+        {
+          "Name": "CoverageEndDate",
+          "Value": "02/22/2023 00:00:00"
+        },
+        {
+          "Name": "PolicyInternalID",
+          "Value": "OMN000025569"
+        },
+        {
+          "Name": "PolicyDescription",
+          "Value": "Surrendered"
+        }
+      ]
+    },
+    {
+      "GroupName": "Detail Info",
+      "GroupCount": "0",
+      "GroupTag": "0",
+      "AttArray": [
+        {
+          "Name": "NameLast",
+          "Value": "Ovu Justice Oji"
+        },
+        {
+          "Name": "NameFirst",
+          "Value": "Ovu Justice Oji"
+        },
+        {
+          "Name": "AddressLine",
+          "Value": "PO Box 14391 ,BUA Port And Terminals Limited ,Port Harcourt , Rivers State ,Nigeria"
+        },
+        {
+          "Name": "CityLGA",
+          "Value": "Savings Plan"
+        },
+        {
+          "Name": "State",
+          "Value": "SAVINGS"
+        },
+        {
+          "Name": "PostCode",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BirthDate",
+          "Value": "03/23/1983 00:00:00"
+        },
+        {
+          "Name": "BirthPlace",
+          "Value": "SAVINGS"
+        },
+        {
+          "Name": "Gender",
+          "Value": "Male"
+        },
+        {
+          "Name": "Nationality",
+          "Value": "n/a"
+        },
+        {
+          "Name": "IDDoc",
+          "Value": "n/a"
+        },
+        {
+          "Name": "IDNo",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Occupation",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Martial",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Education",
+          "Value": "n/a"
+        },
+        {
+          "Name": "PhoneWork",
+          "Value": "8165026843"
+        },
+        {
+          "Name": "PhoneHome",
+          "Value": "n/a"
+        },
+        {
+          "Name": "PhoneMobile",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Email",
+          "Value": "n/a"
+        },
+        {
+          "Name": "ProductName",
+          "Value": "n/a"
+        },
+        {
+          "Name": "ProductType",
+          "Value": "n/a"
+        },
+        {
+          "Name": "PensionEntryAge",
+          "Value": "n/a"
+        },
+        {
+          "Name": "PensionPlanDetail",
+          "Value": "n/a"
+        },
+        {
+          "Name": "AnnualEmolument",
+          "Value": "n/a"
+        },
+        {
+          "Name": "AnnuityType",
+          "Value": "n/a"
+        },
+        {
+          "Name": "AnnuityAmount",
+          "Value": "n/a"
+        },
+        {
+          "Name": "MedicalConditions",
+          "Value": "n/a"
+        },
+        {
+          "Name": "MedicalHistory",
+          "Value": "n/a"
+        },
+        {
+          "Name": "MortgagePortfolio",
+          "Value": "n/a"
+        },
+        {
+          "Name": "MortgageValue",
+          "Value": "n/a"
+        },
+        {
+          "Name": "InsuredValue",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Premium",
+          "Value": "n/a"
+        },
+        {
+          "Name": "CommissionFee",
+          "Value": "n/a"
+        },
+        {
+          "Name": "ExtraFee",
+          "Value": "n/a"
+        },
+        {
+          "Name": "PremiumNote",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Terms",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Preamble",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Endorsements",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Exclusions",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Exceptions",
+          "Value": "n/a"
+        },
+        {
+          "Name": "Conditions",
+          "Value": "n/a"
+        }
+      ]
+    },
+    {
+      "GroupName": "Insured Info",
+      "GroupCount": "0",
+      "GroupTag": "0",
+      "AttArray": [
+        {
+          "Name": "InsuredNo",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryName",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryAddress",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryBirthDate",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryGender",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryPhone",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryEmail",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryIDDoc",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryIDNo",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryRelationship",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BenefitProportions",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryNote",
+          "Value": "n/a"
+        },
+        {
+          "Name": "InsuredNo",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryName",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryAddress",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryBirthDate",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryGender",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryPhone",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryEmail",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryIDDoc",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryIDNo",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryRelationship",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BenefitProportions",
+          "Value": "n/a"
+        },
+        {
+          "Name": "BeneficiaryNote",
+          "Value": "n/a"
+        }
+      ]
+    }
+  ]
+}
